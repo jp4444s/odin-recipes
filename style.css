@@ -1,0 +1,32 @@
+
+body {
+    font-family: Poppins, sans-serif;
+    background: rgba(176, 252, 195, 0.3)
+}
+
+
+#header {
+    color: rgb(133, 109, 109);
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.anime-cake,
+#recipes-links {
+    text-align: center;
+    list-style-type: none;
+    padding: 0
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+border: 1px solid black;
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(18, 29, 21, 0.3);
+}
