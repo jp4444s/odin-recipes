@@ -10,11 +10,11 @@ body {
 }
 
 
-#header {
-    color: black;
+.header {
+    color: rgb(49, 32, 32);
     font-family: 'Playfair Display', serif;
     font-size: 3rem;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 .sauce {
@@ -42,4 +42,9 @@ a:hover {
 img {
     height: auto;
     width: 400px;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: bold;
 }
