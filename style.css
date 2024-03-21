@@ -39,3 +39,7 @@ a:hover {
     background-color: rgba(18, 29, 21, 0.3);
 }
 
+img {
+    height: auto;
+    width: 400px;
+}
