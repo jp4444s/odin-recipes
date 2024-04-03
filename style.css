@@ -28,6 +28,11 @@ body {
 
 }
 
+.recipe-li li {
+    display: inline-block;
+    
+}
+
 a {
     color: black;
 }
