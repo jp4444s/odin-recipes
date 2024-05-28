@@ -15,12 +15,14 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 3rem;
     font-weight: 900;
+    margin-bottom: 20px;
 }
 
 .sauce {
     color: gray;
     text-decoration: none;
     margin: 0;
+    margin-bottom: 20px;
 }
 
 .sauce:hover {
@@ -30,7 +32,6 @@ body {
 
 .recipe-li li {
     display: inline-block;
-    
 }
 
 a {
@@ -46,7 +47,7 @@ a:hover {
 
 img {
     height: auto;
-    width: 400px;
+    width: 400zzpx;
 }
 
 .description {
