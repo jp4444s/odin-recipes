@@ -27,7 +27,6 @@ body {
 
 .sauce:hover {
     color: black;
-
 }
 
 .recipe-li li {
@@ -47,7 +46,7 @@ a:hover {
 
 img {
     height: auto;
-    width: 400zzpx;
+    width: 400px;
 }
 
 .description {
